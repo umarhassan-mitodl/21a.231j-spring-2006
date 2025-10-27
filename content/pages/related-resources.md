@@ -7,40 +7,40 @@ ocw_type: CourseSection
 title: Related Resources
 uid: d7171669-dbbf-bb33-9ecb-b20e82d7af99
 ---
-[Map of State Regulation of Abortion from FRONTLINE®: The Last Abortion Clinic](http://www.pbs.org/wgbh/pages/frontline/clinic/etc/map.html)
+{{% resource_link "96561753-f7a3-4436-b9fe-7f18c3744f5e" "Map of State Regulation of Abortion from FRONTLINE®: The Last Abortion Clinic" %}}
 
-[Same-Sex Marriage: A Selective Bibliography of the Legal Literature](http://lawevents.rutgers.edu/resources/SSM.php)
+{{% resource_link "8f4e7e1b-4a14-48b2-9456-a720a227ba0a" "Same-Sex Marriage: A Selective Bibliography of the Legal Literature" %}}
 
 ## In the News
 
-[Contra-Contraception](http://www.nytimes.com/2006/05/07/magazine/07contraception.html?ex=1304654400&en=fd92772f01a5c709&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "e2ed1008-3d24-4c79-8d68-4235b13d4417" "Contra-Contraception" %}}
 
-[Pro-Life Nation](http://www.nytimes.com/2006/04/09/magazine/09abortion.html?ex=1302235200&en=d855d80018cd6c56&ei=5088&partner=rssuserland)
+{{% resource_link "40399a50-9008-415d-9b58-202b2340642c" "Pro-Life Nation" %}}
 
-[S.D. Makes Abortion Rare Through Laws And Stigma](http://www.washingtonpost.com/wp-dyn/content/article/2005/12/26/AR2005122600747.html)
+{{% resource_link "bf5b0aa7-4827-497d-b5a2-3beac57fb466" "S.D. Makes Abortion Rare Through Laws And Stigma" %}}
 
-[S.D. Abortion Bill Takes Aim at ‘Roe’](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/22/AR2006022202424.html)
+{{% resource_link "774ea299-18a5-4c6c-ba25-7e1ef40eb8d9" "S.D. Abortion Bill Takes Aim at ‘Roe’" %}}
 
-[The John/Joan Case Updated](http://www.hawaii.edu/PCSS/biblio/articles/2000to2004/2000-another-perspective.html)
+{{% resource_link "5eb589f6-a7ab-461e-99d6-18e189bbea39" "The John/Joan Case Updated" %}}
 
-[Many Couples Must Negotiate Terms of ‘Brokeback’ Marriages](https://www.nytimes.com/2006/03/07/health/many-couples-must-negotiate-terms-of-brokeback-marriages.html)
+{{% resource_link "b5b07746-9ad4-4245-b60a-4aed6ec3bf0a" "Many Couples Must Negotiate Terms of ‘Brokeback’ Marriages" %}}
 
-[Straight, Gay, or Lying? Bisexuality Revisted.](http://www.nytimes.com/2005/07/05/health/05sex.html?ex=1278216000&en=5a82f18cadf2ad83&ei=5088)
+{{% resource_link "3716f0f8-0c23-4a97-a571-e424f8baa95b" "Straight, Gay, or Lying? Bisexuality Revisted." %}}
 
-[The Hetersexual Revolution](http://www.nytimes.com/2005/07/05/opinion/05coontz.html?ex=1278216000&en=969be7d15ff895af&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "572f9280-c2ac-468a-af58-8a6a25c4dcc4" "The Hetersexual Revolution" %}}
 
-[Unwed Fathers Fight for Babies Placed for Adoption by Mothers](http://www.nytimes.com/2006/03/19/national/19fathers.html?ex=1300424400&en=baf075e517cb5f44&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "7dfb7ad7-bde2-4593-a95a-bde773857d6f" "Unwed Fathers Fight for Babies Placed for Adoption by Mothers" %}}
 
-[Wanted: A Few Good Sperm](http://www.nytimes.com/2006/03/19/magazine/319dad.html?ex=1300424400&en=d0ee77de0912b2e6&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "7ecd8f2b-c286-4e60-a458-cfe01566ec10" "Wanted: A Few Good Sperm" %}}
 
-[Why Do So Few Women Reach the Top of Big Law Firms?](http://www.nytimes.com/2006/03/19/business/yourmoney/19law.html?ex=1300424400&en=f9b2756ce77b02bc&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "21fd6f10-a86f-4750-ae3d-a97a983b05ca" "Why Do So Few Women Reach the Top of Big Law Firms?" %}}
 
-[Diminished by Discrimination We Scarcely See](http://www.washingtonpost.com/wp-dyn/articles/A360-2005Feb5.html)
+{{% resource_link "b6dd83b8-2343-49a7-9fa9-bc1e69264487" "Diminished by Discrimination We Scarcely See" %}}
 
-[For Women in Sciences, Slow Progress in Academia](http://www.nytimes.com/2005/04/15/education/15women.html?ex=1271217600&en=e5302d37d78d6df3&ei=5090&partner=rssuserland&emc=rss)
+{{% resource_link "d9da84eb-23cf-4e8b-ba48-2af0906e415c" "For Women in Sciences, Slow Progress in Academia" %}}
 
-[Before Spring Break, The Anorexic Challenge](http://www.nytimes.com/2006/04/02/fashion/sundaystyles/02BREAK.html?ex=1301634000&en=4fde4428f7c7bd55&ei=5088&partner=rssnyt&emc=rss)
+{{% resource_link "d62da1d3-59d4-4164-a605-40579e1389ac" "Before Spring Break, The Anorexic Challenge" %}}
 
-[Standing Up After Fearing Standing Out](http://www.nytimes.com/2005/04/15/sports/othersports/15coach.html?ex=1271217600&en=a3b0cc23554e3927&ei=5090&partner=rssuserland&emc=rss)
+{{% resource_link "b5b69fdf-d7e9-41f7-9f40-9024e6a08a6b" "Standing Up After Fearing Standing Out" %}}
 
-[The Man Date](http://www.nytimes.com/2005/04/10/fashion/10date.html?ex=1270785600&en=37be779e04f07228&ei=5088&partner=rssnyt)
+{{% resource_link "015b07d8-55ee-448a-bb65-099f9f4e931a" "The Man Date" %}}
